@@ -5,7 +5,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+RANGER+MD+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+MARK SIMIYU)](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com/?lines=INTRODUCING RANGER MD 
 
 
  
