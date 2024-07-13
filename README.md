@@ -16,7 +16,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
   
 
-
+https://readme-typing-svg.demolab.com/?lines=INTRODUCING RANGER MD BOT
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
