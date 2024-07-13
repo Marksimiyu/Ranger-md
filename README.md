@@ -54,7 +54,7 @@ Please Use Node Version Higher to Get The Best Performance.
 
 ## Support 
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r" target="_blank">
+https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
