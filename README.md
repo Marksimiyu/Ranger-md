@@ -7,9 +7,9 @@
       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+TOPU+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+TOPUDMH)](https://git.io/typing-svg)
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
  
-<p align="center"> Introducing TOPU Md, A Simple WhatsApp user BOT, Created by topu Tech.
+<p align="center"> Introducing RANGER MD, A Simple WhatsApp user BOT, Created by FORD RANGER AI.
 </p>
 
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg" alt="01" border="0" /></a>                     
