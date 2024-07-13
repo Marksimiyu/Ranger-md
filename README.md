@@ -1,9 +1,11 @@
+FORD RANGER MD BOT
+  
 
-https://files.fm/u/jg2ugedevv
+ a simple Whatsapp bot loaded with
+ amazing features
  
 
 
-https://files.fm/u/jg2ugedevv
       
 RANGER AI
 
@@ -12,13 +14,13 @@ RANGER AI
 <p align="center"> Introducing RANGER MD, A Simple WhatsApp user BOT, Created by FORD RANGER AI.
 </p>
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/13f1bb945857eb9b1eca6.jpg" alt="01" border="0" /></a>                     
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>&</a>
+
+https://files.fm/u/jg2ugedevv
   
 
  RANGER MD BOT
 
-https://files.fm/u/jg2ugedevv
+
 
 
 #### SETUP
