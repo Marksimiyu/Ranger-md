@@ -62,8 +62,8 @@ Please Use Node Version Higher to Get The Best Performance.
 
 HOW TO REACH THE OWNER? 
  
+   https://wa.link/pcsr5k
    
-   <a href="https://wa.me+254110550356">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
