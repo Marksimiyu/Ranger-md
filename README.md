@@ -90,7 +90,9 @@ HOW TO REACH THE OWNER?
 Contributions to *RANGER MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
-RANGER Md is safe for your WhatsApp and heroku
+WARNING!! MISUSING ANY BOT LEADS TO A WHATSAPP BAN
+
+I AM NOT ACCOUNTABLE FOR THAT🫣
 
 ## Reporting a Vulnerability
 
