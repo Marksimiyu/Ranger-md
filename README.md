@@ -15,7 +15,7 @@ RANGER AI
 </p>
 
 
-https://files.fm/u/jg2ugedevv
+https://ibb.co/N6NMDtn
   
 
  RANGER MD BOT
