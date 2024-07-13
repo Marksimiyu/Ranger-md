@@ -65,7 +65,7 @@ HOW TO REACH THE OWNER?
   </a>&nbsp;&nbsp;
    <a
 
-    ## Ask any thing
+    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -83,7 +83,6 @@ HOW TO REACH THE OWNER?
 ## Thankyou for choosing RANGER MD bot 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Contributions
 
@@ -106,7 +105,7 @@ RANGER Md is safe for your WhatsApp and heroku
 
 [gifted tech]
 
-[king ibrahim]
+[Me Too 😂😂]
 
 ## License
 
