@@ -1,6 +1,6 @@
 
   <h1 align="center">RANGER MD BEST WABOT</h1>
-href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y">
+
 
 THANKS FOR CHOOSING RANGER MD BOT
 
