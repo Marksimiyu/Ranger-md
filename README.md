@@ -80,12 +80,14 @@ Contributions to *RANGER MD* are welcome! If you have ideas for new features, im
 # Security Notice
 WARNING!! MISUSING ANY BOT LEADS TO A WHATSAPP BAN
 
-I AM NOT ACCOUNTABLE FOR THAT🫣
+USE WHATSAPP BUSINESS IF YOU DON'T WANT A BAN
+
+🤣🤣🤣🤣BUT DON'T WORRY WHATSAPP BANS ONLY LASTS FOR 7HRS😂😂😂
 
 ## Reporting a Vulnerability
 
 
-## powered FORD RANGER AI
+## powered by FORD RANGER AI
 
 
 ## THANKS TO
