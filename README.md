@@ -1,6 +1,7 @@
 
   <h1 align="center">RANGER MD BEST WABOT</h1>
 
+ <img alt="Asta" height="300" src="https://i.imgur.com/lIo3cM2.jpeg">
 
 THANKS FOR CHOOSING RANGER MD BOT
 
