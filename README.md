@@ -8,10 +8,9 @@
 
 
 
-     *Thanks 👍 for choosing*
+     
 
-       *RANGER MD BOT*
- 
+  <h1 align="center">THANKS FOR CHOOSING RANGER MD BOT</h1>
 
 
 
