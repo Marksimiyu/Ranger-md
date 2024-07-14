@@ -71,7 +71,9 @@ https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
    
-## Thankyou for choosing RANGER MD bot 
+
+<h1 align="center"KEEP USING RANGER MD🤓</h1>
+
 
 
 
@@ -81,11 +83,13 @@ https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
 Contributions to *RANGER MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 # Security Notice
-WARNING!! MISUSING ANY BOT LEADS TO A WHATSAPP BAN
 
-USE WHATSAPP BUSINESS IF YOU DON'T WANT A BAN
 
-🤣🤣🤣🤣BUT DON'T WORRY WHATSAPP BANS ONLY LASTS FOR 7HRS😂😂😂
+    WARNING 
+ MISUSING ANY BOT MY BAN YOUR WHATSAPP ACCOUNT
+
+IN CASE OF A BAN I'M NOT RESPONSIBLE FOR THAT
+ BUT YOU CAN USE BUSINESS ACCOUNT TO AVOID THAT
 
 ## Reporting a Vulnerability
 
@@ -107,6 +111,4 @@ USE WHATSAPP BUSINESS IF YOU DON'T WANT A BAN
 
 The *RANGER MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *RANGER MD*  to enhance your Whatsapp more enjoyable
-☣Powered by FORD RANGER AI
-   FIND ME ON TELEGRAM ALSO
+
