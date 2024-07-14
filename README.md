@@ -2,7 +2,7 @@
   <h1 align="center">RANGER MD BEST WABOT</h1>
 
  
-<a href="https://imgur.com/gallery/TK85cGl">
+![img]https://imgur.com/gallery/TK85cGl
 
 
 
