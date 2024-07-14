@@ -1,4 +1,4 @@
-FORD RANGER MD BOT
+photos.app.goo.gl/raAn4e2U4mftHWdS8FORD RANGER MD BOT
   
 
  a simple Whatsapp bot loaded with
@@ -12,7 +12,9 @@ FORD RANGER MD BOT
 </p>
 
 
-![https://photos.app.goo.gl/raAn4e2U4mftHWdS8](https://photos.app.goo.gl/raAn4e2U4mftHWdS8)
+![https://photo)photos.app.goo.gl/raAn4e2U4mftHWdS8](https://photos.app.goo.gl/raAn4e2U4mftHWdS8)
+  
+
   
 
  RANGER MD BOT
