@@ -1,12 +1,13 @@
-photos.app.goo.gl/raAn4e2U4mftHWdS8FORD RANGER MD BOT
+        HELLO THERE 👋👋👋
   
 
- a simple Whatsapp bot loaded with
- amazing features
+THANKS FOR CHOOSING RANGER MD BOT
+
+THIS IS A COOL POWERFUL WHATSAPP BOT LOADED WITH AMAZING FEATURES TO MAKE YOUR WHATSAPP AS ENJOYABLE AS POSSIBLE 
  
 
 
-!https://photos.app.goo.gl/wnXZzjbBL7r7F1rv8
+  FOLLOW THE FOLLOWING STEPS TO DEPLOY RANGER MD BOT
  
 <p align="center"> Introducing RANGER MD, A Simple WhatsApp user BOT, Created by FORD RANGER AI.
 </p>
