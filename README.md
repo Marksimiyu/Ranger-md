@@ -36,23 +36,16 @@ THIS IS A COOL POWERFUL WHATSAPP BOT LOADED WITH AMAZING FEATURES TO MAKE YOUR W
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
    
-## Supported Versions Node Versions to run this bot
 
-Please Use Node Version Higher to Get The Best Performance.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 14.x   | :x: |
-| 16.x   | ❗                |
-| 18.x   | :white_check_mark: |
-| 20.x   | ✅                |
 
 ## Support 
 ## Join my channel for updates and get free cc
 
 https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
 
-HOW TO REACH THE OWNER? 
+YOU WANNA REACH ME??
+      👇👇👇👇
  
    https://wa.link/pcsr5k
    
@@ -66,7 +59,7 @@ HOW TO REACH THE OWNER?
 
 
 
-## Makesure you follow my channel for latest updates for TOPU MD bot and free CC
+## Makesure you follow my channel for latest updates for RANGER MD bot and free CC
  [`WA CHANNEL`]https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
 
 
@@ -111,5 +104,4 @@ The *RANGER MD* is released under the [MIT License](https://opensource.org/licen
 
 Enjoy the diverse features of the *RANGER MD*  to enhance your Whatsapp more enjoyable
 ☣Powered by FORD RANGER AI
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   FIND ME ON TELEGRAM ALSO
