@@ -1,5 +1,5 @@
-        HELLO THERE 👋👋👋
-  
+
+  <h1 align="center">RANGER MD BEST WABOT</h1>
 
 THANKS FOR CHOOSING RANGER MD BOT
 
