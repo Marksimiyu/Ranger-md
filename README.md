@@ -59,9 +59,10 @@ https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
 
  
    https://wa.link/pcsr5k
-   
-    <h1 align="center">SUPPORT GROUP LINK</h1>
-    https://chat.whatsapp.com/FkY6lnDKjMs7R0EC5BJsKD
+  
+  <h1 align="center">SUPPORT GROUP</h1>
+ https://chat.whatsapp.com/FkY6lnDKjMs7R0EC5BJsKD
+    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
