@@ -42,12 +42,17 @@
 
 
 ## Support 
-## Join my channel for updates and get free cc
+## 
+  <h1 align="center">SUPPORT CHANNEL LINK</h1>
+
 
 https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
 
-YOU WANNA REACH ME??
-      👇👇👇👇
+      
+
+
+  <h1 align="center">MY CONTACT</h1>
+
  
    https://wa.link/pcsr5k
    
@@ -61,8 +66,7 @@ YOU WANNA REACH ME??
 
 
 
-## Makesure you follow my channel for latest updates for RANGER MD bot and free CC
- [`WA CHANNEL`]https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
+
 
 
 
