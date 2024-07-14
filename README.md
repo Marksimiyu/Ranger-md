@@ -56,10 +56,7 @@ https://whatsapp.com/channel/0029Vaj5lGwIt5rtoOEHoV1b
  
    https://wa.link/pcsr5k
    
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <a
-
+    
     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
