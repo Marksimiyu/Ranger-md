@@ -12,7 +12,7 @@ https://photos.app.goo.gl/wnXZzjbBL7r7F1rv8
 </p>
 
 
-![a ranger rover car behind a brick wall](https://photos.app.goo.gl/raAn4e2U4mftHWdS8)
+![a ranger rover car](https://photos.app.goo.gl/raAn4e2U4mftHWdS8)
   
 
  RANGER MD BOT
