@@ -5,14 +5,8 @@ FORD RANGER MD BOT
  amazing features
  
 
-🚘🚘🚘🚘🚘.        
-🚘
-🚘     
-🚘🚘🚘🚘🚘
-🚘   
-🚘
-🚘
 
+https://photos.app.goo.gl/wnXZzjbBL7r7F1rv8
  
 <p align="center"> Introducing RANGER MD, A Simple WhatsApp user BOT, Created by FORD RANGER AI.
 </p>
