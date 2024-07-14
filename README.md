@@ -20,17 +20,21 @@
 
 #### SETUP
 
+
+
+     1.Fork Repo
+
 1. Fork the repo
     <br>
 <a href='https://github.com/Marksimiyu/Ranger-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-
+    2.Get session id
 
 2. Get Session ID (By pairing code)
    > 
      <a href='https://topu-scan-pair.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-
+     3.Now deploy 
 3. Deploy on heroku
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Toputech/Topu-ai' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
