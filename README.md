@@ -109,7 +109,7 @@ IN CASE OF A BAN I'M NOT RESPONSIBLE FOR THAT
 
 [gifted tech]
 
-[Me Too 😂😂]
+[MARK SIMIYU]
 
 ## License
 
